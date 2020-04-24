@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vn8dFH54YkyhknLzq/Yn+m773J2NygohGv5SB0B9lV4JZRwpn/l31gpK/WXoKrr7i4Nj7CHDxJ/GUQYNWcaUwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spenc\\RiderProjects\\Week3LabB\\Week3LabB\\Week3LabB.iOS\\Week3LabB.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spenc\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

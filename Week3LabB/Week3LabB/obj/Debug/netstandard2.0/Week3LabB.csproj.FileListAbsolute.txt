@@ -1,0 +1,12 @@
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\bin\Debug\netstandard2.0\Week3LabB.deps.json
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\bin\Debug\netstandard2.0\Week3LabB.dll
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\bin\Debug\netstandard2.0\Week3LabB.pdb
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\obj\Debug\netstandard2.0\Week3LabB.csprojAssemblyReference.cache
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\obj\Debug\netstandard2.0\Week3LabB.csproj.CoreCompileInputs.cache
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\obj\Debug\netstandard2.0\Week3LabB.AssemblyInfoInputs.cache
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\obj\Debug\netstandard2.0\Week3LabB.AssemblyInfo.cs
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\obj\Debug\netstandard2.0\Week3LabB.dll
+C:\Users\spenc\RiderProjects\Week3LabB\Week3LabB\Week3LabB\obj\Debug\netstandard2.0\Week3LabB.pdb
